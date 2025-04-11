@@ -1,4 +1,4 @@
-name: CI-Polaris-Adv
+name: bd-ss-polaris-adv
 on:
   push:
     branches: [ main, master, develop, stage, release ]
